@@ -1,6 +1,7 @@
 // Copyright 2024 Savchuk Anton
 
 #include <gtest/gtest.h>
+#include <cmath>
 #include "circle.h"
 #include "tasks.h"
 
